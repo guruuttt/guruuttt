@@ -50,7 +50,7 @@ An AI-powered platform designed to make learning new languages more interactive 
 ---
 
 ## 📫 Connect With Me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **Email:** [munavir0011@gmail.com](mailto:your.email@example.com)  
 - **LinkedIn:** [linkedin.com/in/muhammedmunavir](#)  
 - **Twitter:** [twitter.com/muhammedmunavir](#)  
 
